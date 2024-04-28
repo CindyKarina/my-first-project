@@ -20,6 +20,8 @@ public class Ejercicio1 {
         System.out.println("El número "+digito+" se repite: "+contar_digito+ " veces.");
     }
 
+    //Nuevos cambios en GitLab
+
     private static int CantidadDigitos(String cadena){
         return cadena.length(); //Nos permite hallar la cantidad de caracteres que hay en la cadena
     }
