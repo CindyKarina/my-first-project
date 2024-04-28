@@ -22,6 +22,8 @@ public class Ejercicio1 {
 
     //Nuevos cambios en GitLab
 
+    //Nuevos cambios desde IntelliJ
+
     private static int CantidadDigitos(String cadena){
         return cadena.length(); //Nos permite hallar la cantidad de caracteres que hay en la cadena
     }
